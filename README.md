@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# NAME:KARTHICK KISHORE T
+# REGNO:212223220042
 ## AIM
 To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
